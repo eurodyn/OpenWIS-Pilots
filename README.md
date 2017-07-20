@@ -19,3 +19,6 @@ Description... LINK
 
 ## OWT-6: Deploying an Angular web application in Karaf
 Description... LINK
+
+## OWT-7: Database communication in Karaf via services
+Description... LINK
